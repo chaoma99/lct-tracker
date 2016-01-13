@@ -1,4 +1,4 @@
-# Long-Term Correlation Tracking (LCT)
+# Long-Term Correlation Tracking
 
 This is an updated version of the LCT tracker in CVPR 2015
 
