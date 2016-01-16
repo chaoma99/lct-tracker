@@ -1,15 +1,16 @@
 
 Quickstart
 
-Unzip code or clone it from https://github.com/chaoma99/lct-tracker.git
+1. Unzip code or clone it from https://github.com/chaoma99/lct-tracker.git
 
-Add the vl_feat toolbox in your current path http://www.vlfeat.org/
+2. Add the vl_feat toolbox in your current path 
+   http://www.vlfeat.org/
 
-If you don't have the object tracking benchmark (OTB) dataset yet, run 'download_videos.m' (it will automatically download the OTB-100 sequences)
+3. If you don't have the object tracking benchmark (OTB) dataset yet, run 'download_videos.m' (it will automatically download the OTB-100 sequences)
 
-Run utility/compile.m to comile calcIIF.cpp and im2colstep.c. These files are tested with opencv3.0. Notice the compatibility issue if your opencv version is earlier than 3.0
+4. Run utility/compile.m to comile calcIIF.cpp and im2colstep.c. These files are tested with opencv3.0. Notice the compatibility issue if your opencv version is earlier than 3.0
 
-The source files "assignToBins1.c", "gradientMex.cpp", 'imResample.cpp' are from Pitor Dollar's toolbox. If the compiled files do not work on your system, get it from http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html
+5. The source files "assignToBins1.c", "gradientMex.cpp", 'imResample.cpp' are from Pitor Dollar's toolbox. If the compiled files do not work on your system, get it from http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html
 
 Introduction
 
