@@ -24,12 +24,11 @@ Quickstart
    If these compiled files do not work with your system, get it from
    http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html 
 
+__________
 
 'run_tracker' without parameters to choose a video and test the tracker on it.
 
 'run_lct2' is the interface for cvpr2013 benchmark
-
-__________
 
 The main interface function is 'run_tracker'. You can test several configurations (KCF,
 DCF, MOSSE) by calling it with different commands:
