@@ -27,7 +27,7 @@ Introduction
 
 The script 'run_tracker' without parameters is to choose a video and test the proposed tracker. The start interface is 'run_tracker'.
 
-We also provide an the interface 'run_lct2' for reproduce our results on OBT tracking benchmark
+We also provide the interface 'run_lct2' to reproduce our results on OBT tracking benchmark
 
  run_tracker
    Without any parameters, will ask you to choose a video, and track the objects, 
