@@ -25,10 +25,11 @@ Quickstart
    http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html 
 
 __________
+Introduction
 
-'run_tracker' without parameters to choose a video and test the tracker on it.
+The script 'run_tracker' without parameters is to choose a video and test the tracker on it.
 
-'run_lct2' is the interface for cvpr2013 benchmark
+The script 'run_lct2' is the interface for cvpr2013 benchmark
 
 The main interface function is 'run_tracker'. You can test several configurations (KCF,
 DCF, MOSSE) by calling it with different commands:
