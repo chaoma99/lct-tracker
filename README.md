@@ -16,7 +16,7 @@ Quickstart
 
 3. If you don't have the videos already, run 'download_videos.m' (may take some time).
 
-4. Run utility/compile.m to comile calcIIF.cpp and im2colstep.c. These files are compiles with opencv3.0
+4. Run utility/compile.m to comile calcIIF.cpp and im2colstep.c. These files are compiled with opencv3.0
 
 5. The C++ source files "assignToBins1.c", "gradientMex.cpp", 'imResample.cpp' are from Pitor Dollar's toolbox. 
    If the compiled files do not work on your system, get it from
