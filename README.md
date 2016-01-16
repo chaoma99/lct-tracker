@@ -1,7 +1,5 @@
 # Long-Term Correlation Tracking (CVPR 2015)
 
-This is an updated version of the LCT tracker
-
 Chao Ma, Xiakang Yang, Chongyang Zhang, and Ming-Hsuan Yang
 
 https://sites.google.com/site/chaoma99/cvpr15_tracking
