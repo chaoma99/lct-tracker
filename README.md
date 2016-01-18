@@ -7,7 +7,7 @@ https://sites.google.com/site/chaoma99/cvpr15_tracking
 Note that we made partial improvements in this version, where the randn fern classifier is replaced with an SVM classifier, and the color channels are quantized as four bits for SVM classifier learning.
 
 __________
-#Quickstart
+##Quickstart
 
 1. Unzip code or clone it from https://github.com/chaoma99/lct-tracker.git
 
@@ -23,7 +23,7 @@ __________
    http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html 
 
 __________
-#Introduction
+##Introduction
 
 The script 'run_tracker' without parameters is to choose a video and test the proposed tracker. The start interface is 'run_tracker'.
 
@@ -44,7 +44,7 @@ Though it's not required, the code will make use of the MATLAB Parallel Computin
 Toolbox automatically if available.
 
 __________
-#References
+##References
 
 [1] J. F. Henriques, R. Caseiro, P. Martins, J. Batista, "High-Speed Tracking with
 Kernelized Correlation Filters", TPAMI 2015.
