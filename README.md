@@ -4,7 +4,7 @@ Chao Ma, Xiakang Yang, Chongyang Zhang, and Ming-Hsuan Yang
 
 https://sites.google.com/site/chaoma99/cvpr15_tracking
 
-Note that we made partial improvements in this version, where the randn fern classifier is replaced by an SVM classifier, and the color channels are quantized as four bits for SVM classifier learning.
+Note that we made partial improvements in this version, where the randn fern classifier is replaced by an SVM classifier, and the color channels are quantized as four bits for feature.
 
 __________
 ##Quickstart
