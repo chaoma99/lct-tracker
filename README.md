@@ -1,17 +1,17 @@
-# Adaptive Correlation Filters with Long-Term and Short-Term Memory for Object Tracking (IJCV 2018)
+## Adaptive Correlation Filters with Long-Term and Short-Term Memory for Object Tracking (IJCV 2018)
 
 Chao Ma, Jia-Bin Huang, Xiaokang Yang, and Ming-Hsuan Yang
 
 https://sites.google.com/site/chaoma99/cf-lstm
 
-# Long-Term Correlation Tracking (CVPR 2015)
+## Long-Term Correlation Tracking (CVPR 2015)
 
 Chao Ma, Xiakang Yang, Chongyang Zhang, and Ming-Hsuan Yang
 
 
 Note that this is LCT2.0, we made partial improvements in this version, where the randn fern classifier in LCT1.0 (CVPR 2015) is replaced by an SVM classifier, and the color channels are quantized as four bits for feature.
 
-##Quickstart
+## Quickstart
 
 1. Unzip code or clone it from https://github.com/chaoma99/lct-tracker.git
 
@@ -26,7 +26,7 @@ Note that this is LCT2.0, we made partial improvements in this version, where th
    If the compiled files do not work on your system, get it from
    http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html 
 
-##Introduction
+## Introduction
 
 The script 'run_tracker' without parameters is to choose a video and test the proposed tracker. The start interface is 'run_tracker'.
 
