@@ -46,7 +46,7 @@ For the actual tracking code, check out the 'tracker_lct' function.
 Though it's not required, the code will make use of the MATLAB Parallel Computing
 Toolbox automatically if available.
 
-##References
+## References
 
 [1] J. F. Henriques, R. Caseiro, P. Martins, J. Batista, "High-Speed Tracking with
 Kernelized Correlation Filters", TPAMI 2015.
